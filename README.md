@@ -46,7 +46,7 @@
 | Khadas VIM3 Basic                  | 159    | A311D     | 2.2   | A73,A53 | 2 GB         | ?              | Y   | 5 TOPS   | XC  | 16 GB    | 16 MB | PCIe x4       | 4L  | 1    |            | CSI4L    |        | 1+OTG   |          |     |         | ac MIMO, B5           |
 | Khadas VIM3 Pro                    | 159    | A311D     | 2.2   | A73,A53 | 4 GB         |                | Y   | 5 TOPS   | XC  | 32 GB    | 16 MB | PCIe x4       | 4L  | 1    |            | CSI4L    |        | 1+OTG   |          |     |         | ac MIMO, B5           |
 | BeagleBone TI                      | 99     | AM335x    | 1     | A8      | 512 MB       | PowerVR SGX530 |     | no       | 1   | 4 GB     | no    |               |     | 1    |            | no       | no     | 1+OTG   | no       |     | 100M    | no                    |
-| PINE A64                           | 32     | A64       | 1.15  | A53     | 512 MB-2 GB  | Mali 400       |     |          | 1   | slot     |       |               | Y   | 1    | no         | ?        | no     | 2       | Out      | Y?  | 1GbE    | n, B4                 |
+| PINE A64 LTS                       | 32     | A64       | 1.15  | A53     | 512 MB-2 GB  | Mali 400       |     |          | 1   | slot     |       |               | Y   | 1    | no         | ?        | no     | 2       | Out      | Y?  | 1GbE    | n, B4                 |
 | PINE H64 "Model B"                 | 34-45  | H6        | 1.5   | A53     | 1-3GB        | Mali T722      |     |          | 1   | slot     | 16 MB |               |     | 1    |            |          | 1      | 2       | Out      | Y?  | 1GbE    | ac, B4                |
 | PINE H64 "Model A"                 |        | H6        | 1.5   | A53     | 1-3GB        | Mali T720      |     |          | 1   | slot     | 16 MB |               |     | 1    |            |          | 1      | 2       | Out      | Y?  | 1GbE    | ac, B4                |
 | Rock64                             | 24-45  | RK3328    | 1.5   |         | 1-4 GB       | Mali 450       |     |          | 1   | slot     | 16 MB |               | no  | 1    | no         | no       | 1      | 2       | Out      | Y   | 1GbE    | no                    |
@@ -56,6 +56,7 @@
 | Sipeed LycheeRV Nezha Dock No Wifi | 27     | D1        |       | C906    | 512 MB       | ?              |     | no       | XC  | no       | opt   | no            | Y   | 1    | LVDS       |          | 1?     | 1?      | 3W,M     | no  | no      | no                    |
 | Sipeed LycheeRV Nezha Dock+Wifi    | 30     | D1        |       | C906    | 512 MB       | ?              |     | no       | XC  | no       | opt   | no            | Y   | 1    | LVDS       |          | 1?     | 1?      | 3W,M     | no  | no      | 2.4, B4               |
 | Sipeed LycheeRV Nezha Panel        |        | D1        |       | C906    | 512 MB       | ?              |     | no       | XC  | no       | opt   | no            | Y   | no   | LVDS       |          | 1?     | 1?      | 1W,2 M   | no  | no      | 2.4, B4               |
+
 
 
 
